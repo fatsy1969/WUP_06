@@ -98,10 +98,13 @@ fisher.test(table2)
 #fisherXY(mydata$race,mydata$cappun)
 ```
 
+the P value for the chi squared test was quite small 0.000000000000014. so reject the null hypothesis. Because white and black have difference of opinions on cappun  
+
+
 ```{r}
 fisherXY(mydata$cappun,mydata$race)
 ```
- 
+ The Fishers test shows that there is difference of opinion in all races  
 
 # Discussion and Conclusion
 
