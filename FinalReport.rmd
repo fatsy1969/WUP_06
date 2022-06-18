@@ -108,4 +108,9 @@ fisherXY(mydata$cappun,mydata$race)
 
 # Discussion and Conclusion
 
+
+
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+
+The differences are the P value for the squared test. it wa smaller by 000000000000014. this was quite small, so the null hypothesis is rejected and the white and black  populataion have a difference of opinion when it comes to cappun  
